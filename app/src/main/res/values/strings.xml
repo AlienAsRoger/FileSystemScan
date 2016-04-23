@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Sizes Calculator</string>
+	<string name="calculate_sizes">Calculate Sizes</string>
+	<string name="dir_size_label_arg">Max Dir size: %s </string>
+	<string name="file_size_label_arg">Max File Size: %s</string>
+	<string name="dialog_text">In order to calculate file sizes we need to have permission to access your storage</string>
+	<string name="dialog_title">Hello there!</string>
+	<string name="title_activity_main2">Main2Activity</string>
+	<string name="action_settings">Settings</string>
+</resources>
